@@ -158,13 +158,17 @@ header{
 /* Pearintosh page */
 /* First section */
 .pear-os-1{
-    background: url("images/hero/pearos-1/pearos_large.png") ;
+    background: url("images/hero/pear-os-1/pearos_large.png") ;
     margin-top: 4.4rem;
     border-top: none;
 }
-
 .pear-os-1{
     border-top: .6rem solid #000;
+}
+/* Second section */
+.pear-os-2{
+    background: url("images/hero/pear-os-2/iphone_11_large.jpg");
+    border-top: .6rem solid #fafafa;
 }
 
 .title-heading-left{
