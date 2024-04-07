@@ -171,6 +171,12 @@ header{
     border-top: .6rem solid #fafafa;
 }
 
+/* PearPhone Page */
+.phone-1{
+    background: url("images/hero/pear-phone/pos18-large.jpg");
+    border-top: .6rem solid #fafafa;
+}
+
 .title-heading-left{
     text-align: left;
 }
